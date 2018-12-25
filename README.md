@@ -5,10 +5,10 @@ the storing log structure is like this
 
 /logs/[YEAR]/[MONTH]/[DAY].log
 
-Installation
+Installation:
 Just import the log_helper in your project
 
-Usage
+Usage:
 call the save_log function with these parameters
 $user_id
 $status
